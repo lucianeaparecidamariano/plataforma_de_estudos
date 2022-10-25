@@ -25,12 +25,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Proffy é uma plataforma de estudos online. Tem como objetivo conectar alunos e professores para estudos complementares, desenvolvimento de projetos e pesquisas.
 
 
-## :memo: Licença
+## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
-
-# plataformaonline
 # plataformadeestudos
